@@ -31,3 +31,4 @@ rules:
     - error
     - always
   react/react-in-jsx-scope: "off"
+  import/no-named-as-default: "off"
