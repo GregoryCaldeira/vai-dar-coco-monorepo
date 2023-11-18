@@ -1,0 +1,14 @@
+{
+  "name": "vai-dar-coco-monorepo",
+  "version": "1.0.0",
+  "description": "Game inspired on Cards Against Humanity with portuguese jokes",
+  "main": "index.js",
+  "repository": "git@github.com:GregoryCaldeira/vai-dar-coco-monorepo.git",
+  "keywords": [],
+  "author": {
+    "name": "Gregory Caldeira",
+    "email": "geral.gcaldeira@gmail.com"
+  },
+  "license": "MIT",
+  "private": false
+}
